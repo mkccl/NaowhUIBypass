@@ -18,4 +18,4 @@ NaowhUI gates certain features (profile setup, installer, options) behind a time
    ```
 4. Restart the game or reload the UI (`/reload`)
 
-NaowhUI must be installed for this addon to work. No configuration needed — all gated features are unlocked automatically on load.
+NaowhUI must be installed for this addon to work. You can get it from [CurseForge](https://www.curseforge.com/wow/addons/naowhui). No configuration needed — all gated features are unlocked automatically on load.
