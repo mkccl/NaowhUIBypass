@@ -1,0 +1,9 @@
+## Title: NaowhUI Bypass
+## Notes: Bypasses NaowhUI token verification
+## Author: decrypt-naowh
+## Version: 1.0
+## Dependencies: NaowhUI
+## Interface: 120001, 50503, 20505
+## Group: NaowhUI
+
+NaowhUIBypass.lua
